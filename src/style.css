@@ -1,0 +1,183 @@
+*{
+    margin: 0px; 
+}
+
+
+body{
+    width: 930px;
+    height: 7700px;
+    background: linear-gradient(180deg, #7A9DB1 82%, #296586 100%);
+}
+
+.branco{
+    background-color: #ffffff;
+    width: 1296px;
+    height: 220px; 
+}
+
+.titulo{
+    color: #357b90;
+    text-align: center;
+    font-family: "Hubballi", sans-serif;
+    font-size: 55px;
+    font-weight: 400;
+    position: relative;
+    height: 62px;
+    top: 20px;
+    letter-spacing: 6px;
+}
+
+.contato1{
+    display: flex;
+    justify-content: space-between;
+    list-style-type: none;
+    align-items: center;
+}
+
+.contato2{
+    background-color: #8fa7b4;
+    color: #234476;
+    font-family: Glory;
+    font-size: 20px;
+    margin-left: 1100px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+    border-radius: 30px;
+    text-align: center;
+}
+
+
+.hubballi-regular {
+    font-family: "Hubballi", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+  
+.bio{
+    margin: 50px 0px 85px 90px;
+    color: #FFF;
+    font-family: "Glory", sans-serif;
+    font-size: 35px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    letter-spacing: 4.05px;
+}
+
+
+.aquarela{
+    color: #1B465E;
+    font-family: "Glory", sans-serif;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    letter-spacing: 4.5px;
+    margin: 80px 0px 0px 150px;
+}
+
+.acrilico{
+    color: #1B465E;
+    font-family: "Glory", sans-serif;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    letter-spacing: 4.5px;
+    margin: 80px 0px 0px 150px;
+}
+
+.guache{
+    color: #1B465E;
+    font-family: "Glory", sans-serif;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    letter-spacing: 4.5px;
+    margin: 80px 0px 0px 150px;
+}
+
+
+.digital{
+    color: #1B465E;
+    font-family: "Glory", sans-serif;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    letter-spacing: 4.5px;
+    margin: 80px 0px 0px 150px;
+}
+
+.contato{
+    color: #FFF;
+    text-align: center;
+    font-family: "Glory", sans-serif;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    letter-spacing: 4.5px;
+    margin: 360px  360px 20px 360px;    
+}
+
+.glory-uniquifier {
+    font-family: "Glory", sans-serif;
+    font-weight: weight;
+    font-style: normal;
+}
+
+
+.pinturas{ 
+    display: flex;
+    justify-content: space-between;
+    list-style-type: none;
+    align-items: center;
+    padding: 0px 140px 0px 140px;
+    margin: 80px 30px 0px 30px;
+}
+
+.navegação{
+    border-radius: 90px;
+    background-color:#537F89;
+    color: #FFF;
+    padding: 10px 30px 10px 30px;
+    margin: 0px 00px 20px 0px;
+    height: 20px;
+    width: 60px;
+    text-align: center;
+}
+
+.nav{
+    color: #FFF;
+    text-decoration: none;
+    font-family: "Glory", sans-serif;
+}
+
+img{
+    border-radius: 20px;
+    margin: 30px 60px 30px 75px;
+    justify-content: center;
+}
+
+.links{
+    background: linear-gradient(90deg, #FFF 36%, #659AB8 100%);
+    color: #1B465E;
+    list-style-type: none;
+    margin: 40px 300px 0px 300px ;
+    padding: 15px 0px 15px 30px ;
+    border-radius: 30px;
+    font-size: 20px;
+}
+
+.insta{
+    color: #1B465E;
+    text-decoration: none;
+}
+
+.logos{
+    margin: 0px 30px 0px 0px;
+    align-items: center;
+}
+

@@ -34,16 +34,20 @@ body{
     align-items: center;
 }
 
-.contato2{
+.contatoNav{
     background-color: #8fa7b4;
+    margin-left: 1100px;
+    padding: 10px 20px 10px 20px;
+    border-radius: 30px;
+    text-align: center;
+
+}
+
+.contato2{
     color: #234476;
     font-family: Glory;
     font-size: 20px;
-    margin-left: 1100px;
-    padding: 10px 20px 10px 20px;
     text-decoration: none;
-    border-radius: 30px;
-    text-align: center;
 }
 
 
@@ -135,7 +139,7 @@ body{
     list-style-type: none;
     align-items: center;
     padding: 0px 140px 0px 140px;
-    margin: 80px 30px 0px 30px;
+    margin: 50px 30px 0px 30px;
 }
 
 .navegação{
@@ -180,4 +184,3 @@ img{
     margin: 0px 30px 0px 0px;
     align-items: center;
 }
-

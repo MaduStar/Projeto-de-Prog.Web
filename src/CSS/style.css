@@ -1,13 +1,12 @@
 *{
     padding: 0px;
     margin: 0px; 
-    box-sizing: border-box;
 }
 
 
 body{
-    width: auto;
-    height: auto;
+    width: 2000px;
+    height: 5552px;
     margin: auto;
     background: linear-gradient(180deg, #7A9DB1 82%, #296586 100%);
 }
